@@ -1,0 +1,23 @@
+파이썬
+
+객체 지향 프로그래밍
+
+객체의 정의 
+
+Any data with state (attributes or value) and defined behavior (methods). Also the ultimate base class of any new-style class.(파이썬 공식문서)
+
+"상태(속성 또는 값)를 가지고, 정의된 행동(메서드)이 있는 어떤 데이터든 객체다. 또한 object는 모든 신형(new-style) 클래스의 궁극적인(최상위) 기반 클래스이다."
+
+현실의 대상을 코드로 구현한 속성과 행동의 집합
+
+매서드와 클래스
+
+매서드(Method) : 클래스 내부에 정의된 함수
+
+클래스(Class) : 	객체를 만들기 위한 틀(설계도), 프로그램 단위가 작업을 수행하는 일련의 메서드들
+
+인스턴시에이션(Instantiation) : 프로그램이 클래스의 매서드에서 정의한 작업을 수행하기 전에 클래스의 인스턴스를 만들어야하는데 이런 과정을 인스턴시에이션이라한다.
+
+속성(Attribute) = 클래스의 인스턴스 변수 : self.name 같이 self에 저장되는 값들 , 클래스 또는 인스턴스가 가지는 값(데이터)이다.
+
+상속(Inheritance) : 부모 클래스(기존 클래스)의 기능을 **자식 클래스(파생 클래스)**가 물려받는 것
