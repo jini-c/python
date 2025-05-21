@@ -29,4 +29,7 @@
 
 ---
 
-📌 지속적으로 내용이 추가될 예정입니다.
+## BowlingGame
+
+- BowlingGame을 Python 클래스로 코드를 구현했습니다.
+- BowlingGame 코드를 구현한 것을 Tkinter를 통해 GUI로 간단하게 개발했습니다.
